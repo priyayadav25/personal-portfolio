@@ -1,5 +1,9 @@
 {
   "name": "personal-portfolio",
   "version": "1.0.0",
-  "main": "server.js"
+  "description": "Full Stack Personal Portfolio",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
 }
